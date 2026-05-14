@@ -155,28 +155,20 @@ while True:
     option = int(input("entre your choice"))
     if option == 1:
         create_file()
-        
     elif option == 2:
         read_file()
-
     elif option == 3:
         update_file()
-
     elif option == 4:
         delete_file()
-    
     elif option == 5:
         rename_file() 
-    
     elif option == 6:
         create_folder()
-    
     elif option == 7:
         delete_folder()
-    
     elif option == 8:
         create_file_in_folder()       
-
     elif option == 0:
         break
 
