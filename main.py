@@ -156,27 +156,27 @@ while True:
     if option == 1:
         create_file()
         
-    if option == 2:
+    elif option == 2:
         read_file()
 
-    if option == 3:
+    elif option == 3:
         update_file()
 
-    if option == 4:
+    elif option == 4:
         delete_file()
     
-    if option == 5:
+    elif option == 5:
         rename_file() 
     
-    if option == 6:
+    elif option == 6:
         create_folder()
     
-    if option == 7:
+    elif option == 7:
         delete_folder()
     
-    if option == 8:
+    elif option == 8:
         create_file_in_folder()       
 
-    if option == 0:
+    elif option == 0:
         break
 
