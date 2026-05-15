@@ -1,4 +1,4 @@
-# project 1- curd operation
+# project 1- CRUD OPERATION
 
 
 from pathlib import Path
